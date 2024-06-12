@@ -1,6 +1,6 @@
 ## WEBSITE
 
-Link: https://courses-eight-beta.vercel.app/
+Link: https://ezy-skills.vercel.app/
 
 ## Features
 
